@@ -15,5 +15,8 @@
   "repository": {
     "type": "git",
     "url": "git+ssh://git@github.com:voyax/facepp-node-sdk.git"
+  },
+  "dependencies": {
+    "underscore": "^1.8.3"
   }
 }
